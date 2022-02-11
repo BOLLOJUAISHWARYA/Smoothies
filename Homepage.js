@@ -1,7 +1,7 @@
 //slideshow
 
 let image=document.getElementById('smoothiehomeimg1');
-let randomimgarray=["C:/Users/ADM/Desktop/java/Project/Home-images/slide.jpg","C:/Users/ADM/Desktop/java/Project/Home-images/slide1.jpg","C:/Users/ADM/Desktop/java/Project/Home-images/slide2.jpg"];
+let randomimgarray=["Home-images/slide.jpg","Home-images/slide1.jpg","Home-images/slide2.jpg"];
 let length=randomimgarray.length;
 
 function displayimg(){
