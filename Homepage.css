@@ -150,6 +150,7 @@ footer{
 .smoothies{
     display: flex;
     margin: 50px;
+    padding:50px;
     justify-content: space-evenly;
 }
 
@@ -172,7 +173,7 @@ footer{
 
 .menuimg{
     height:300px;
-    width:230px;
+    width:250px;
     border-radius: 10px 0px;
 }
 
