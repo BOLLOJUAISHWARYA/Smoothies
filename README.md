@@ -25,4 +25,4 @@ This project is an interactive portfolio website that serves as an application o
    - Implemented form validation using JavaScript to ensure accurate and secure user input in the contact form, showcasing practical application of JavaScript for user interaction.
 
 ## Hosted link
-[https://bollojuaishwarya.github.io/Smoothies/Homepage.html]
+https://bollojuaishwarya.github.io/Smoothies/Homepage.html
